@@ -55,6 +55,9 @@
 
 📁 6. Shared Resources
 ├── 📄 Templates & Docs (Letterheads, Certificates, Consent Forms)
+
 ├── 🖼️ Logos & Brand Assets
+
 ├── 🛠️ Tools & How-To Guides
+
 └── 🔐 Access Sheets & Important Links
